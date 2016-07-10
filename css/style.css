@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
 }
-.clearfix:after{
+.clearfix:after {
   clear: both;
   content:"";
   display:block;
@@ -13,7 +13,7 @@
 }
 
 body {
-  font-family: Arial, Helvetica, Georgia, sans-serif;
+  font-family: Arial, Helvetica, Georgia, sans-serif, 'open sans';
 
   font-size: 15px;
   color: #222222;
@@ -40,6 +40,9 @@ section {
   background-image: url("../images/photobanner.png");
   float: left;
 }
+
+
+
 h1 {
   width: 300px;
   float: left;
@@ -47,29 +50,47 @@ h1 {
 }
 h2 {
   font-family: 'Permanent Marker', cursive;
-
 }
+h3 {
+  font-family: 'Permanent Marker', cursive;
+  color: #cccccc;
+}
+blockquote {
+  height: 80px;
+  width: 725px;
+  text-align: center;
+  border-color: #eeeeee;
+font-family: 'Open Sans';
+}
+
+
 img {
   float: right;
 }
-
-.clearfix {
+main {
   clear: both;
-  content: "";
-  display: block;
+  content:"";
+  display:block;
+  width: 870px;
 }
 
-blockquote {
-  height: 80px;
-  width: 960px;
-  text-align: center;
-  border-color: #eeeeee;
-}
-.wrapper {
-  width: 960px;
-}
 article {
-  width: 290px;
+  float:left;
+  width: 274px;
+  margin: 10;
+  padding-right: 20px;
+
+}
+
+footer{
+  height: 400px;
+  clear: both;
+  content:"";
+  display:block;
+font-color: #aaaaaa;
+  background-color: #222222;
+  
+
 }
 
 

@@ -13,7 +13,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco sed do eiusmod tempor
 Home Box 1
 Column 1 Photo
 Lorem ipsum dolor sit etconsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Read more >
+
 
 Home Box 2
 Column 2 Photo
