@@ -25,6 +25,12 @@ nav {
   text-align: left;
   float: left;
 }
+
+
+img {
+  float: right;
+}
+
 a {
   color: #1FA2E1;
   font-size: 24px;
@@ -40,8 +46,6 @@ section {
   background-image: url("../images/photobanner.png");
   float: left;
 }
-
-
 
 h1 {
   width: 300px;
@@ -63,10 +67,6 @@ blockquote {
 font-family: 'Open Sans';
 }
 
-
-img {
-  float: right;
-}
 main {
   clear: both;
   content:"";
@@ -76,11 +76,11 @@ main {
 
 article {
   float:left;
-  width: 274px;
-  margin: 10;
+  width: 250px;
+  margin: 10px;
   padding-right: 20px;
-
 }
+
 
 footer{
   height: 400px;
@@ -89,9 +89,9 @@ footer{
   display:block;
 font-color: #aaaaaa;
   background-color: #222222;
-  
 
 }
+
 
 
 
